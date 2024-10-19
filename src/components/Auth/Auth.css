@@ -1,0 +1,119 @@
+.login-container {
+    width: 350px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  input {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+  }
+  
+  button {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .login-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+  }
+  
+  .login-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .divider {
+    margin: 20px 0;
+    color: #888;
+    font-size: 14px;
+    position: relative;
+  }
+  
+  .divider::before,
+  .divider::after {
+    content: "";
+    width: 40%;
+    height: 1px;
+    background: #ddd;
+    position: absolute;
+    top: 50%;
+  }
+  
+  .divider::before {
+    left: 0;
+  }
+  
+  .divider::after {
+    right: 0;
+  }
+  
+  .oauth-btn {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .google-btn {
+    background-color: #db4437;
+    color: white;
+  }
+  
+  .github-btn {
+    background-color: #333;
+    color: white;
+  }
+  
+  .oauth-btn:hover {
+    opacity: 0.9;
+  }
+  
+  .signup-section p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .signup-btn {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+  }
+  
+  .signup-btn:hover {
+    background-color: #218838;
+  }
+  
+  .signup-toggle-btn {
+    color: blue;
+    cursor: pointer; /* This will make the cursor a pointer when hovering over the span */
+    text-decoration: underline; /* Optional: To make it look more like a link */
+  }
+  
+  .signup-toggle-btn:hover {
+    color: darkblue; /* Optional: Change color on hover */
+  }
+  
