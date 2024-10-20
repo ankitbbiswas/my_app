@@ -1,4 +1,4 @@
-#uni-raise
+#UNI-RAISE
 
 uni-raise is an innovative platform designed to facilitate easy fundraising for universities and communities while ensuring transparency in storage and transactions. With our user-friendly interface, stakeholders can manage their fundraising efforts efficiently and securely.
 
